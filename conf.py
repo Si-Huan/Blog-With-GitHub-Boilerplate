@@ -73,7 +73,7 @@ social_links = [
     {
         "name": "QQ",
         "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-qq"
+        "icon": "gi gi-twitter"
     }
 ]
 
