@@ -4,6 +4,12 @@
 
 # For Maverick
 site_prefix = "/Blog-With-GitHub-Boilerplate/"
+template = {
+    "name": "Galileo",
+    "type": "git",
+    "url": "https://github.com/Si-Huan/Maverick-Theme-Galileo.git",
+    "branch": "latest"
+}
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
